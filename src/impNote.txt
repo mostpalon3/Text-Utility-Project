@@ -1,0 +1,1 @@
+removing router in this build since the router doesnt work on github pages 
