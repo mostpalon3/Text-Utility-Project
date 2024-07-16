@@ -108,7 +108,7 @@ export default function TextForm(props) {
                     </ul>
                     <hr />
                     <h1>Preview:</h1>
-                    <p>{text ? text : 'Nothing to preview.'}</p>
+                    <p className='text-wrap'>{text ? text : 'Nothing to preview.'}</p>
                     <hr />
                 </div>
             </div>
